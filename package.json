@@ -1,7 +1,7 @@
 {
   "name": "cert-project-drum-machine",
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/cert-project-drum-machine",
+  "homepage": "https://cvleon.github.io/Cert-Project-Drum-Machine",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
