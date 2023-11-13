@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cert-project-drum-machine/static/css/main.62482e96.css",
-    "main.js": "/cert-project-drum-machine/static/js/main.f14dd640.js",
-    "static/js/787.b8d841bf.chunk.js": "/cert-project-drum-machine/static/js/787.b8d841bf.chunk.js",
-    "index.html": "/cert-project-drum-machine/index.html",
-    "main.62482e96.css.map": "/cert-project-drum-machine/static/css/main.62482e96.css.map",
-    "main.f14dd640.js.map": "/cert-project-drum-machine/static/js/main.f14dd640.js.map",
-    "787.b8d841bf.chunk.js.map": "/cert-project-drum-machine/static/js/787.b8d841bf.chunk.js.map"
+    "main.css": "/Cert-Project-Drum-Machine/static/css/main.62482e96.css",
+    "main.js": "/Cert-Project-Drum-Machine/static/js/main.57a891ce.js",
+    "static/js/787.b8d841bf.chunk.js": "/Cert-Project-Drum-Machine/static/js/787.b8d841bf.chunk.js",
+    "index.html": "/Cert-Project-Drum-Machine/index.html",
+    "main.62482e96.css.map": "/Cert-Project-Drum-Machine/static/css/main.62482e96.css.map",
+    "main.57a891ce.js.map": "/Cert-Project-Drum-Machine/static/js/main.57a891ce.js.map",
+    "787.b8d841bf.chunk.js.map": "/Cert-Project-Drum-Machine/static/js/787.b8d841bf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.62482e96.css",
-    "static/js/main.f14dd640.js"
+    "static/js/main.57a891ce.js"
   ]
 }
